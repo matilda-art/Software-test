@@ -12,6 +12,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 
 class Test081001(unittest.TestCase):
+    # 继承unittest.TestCase的类
     def setUp(self):
         self.driver = webdriver.Firefox()
         self.vars = {}
@@ -28,4 +29,5 @@ class Test081001(unittest.TestCase):
 
 
 if __name__ == "__main__":
+    # 执行类的入口
     unittest.main()
