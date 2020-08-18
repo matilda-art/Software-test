@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test_of_HTMLTestRunner">
+  <component name="RunManager" selected="Python tests.Unittests for exception_capture_and_error_screenshpt.Baidu3.test_baidusearch">
     <configuration name="test_of_HTMLTestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="unittest测试框架" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +81,20 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for exception_capture_and_error_screenshpt.Baidu3.test_baidusearch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="unittest测试框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;exception_capture_and_error_screenshpt.Baidu3.test_baidusearch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for test.Baidu01.Baidu1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="unittest测试框架" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,27 +109,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in Baidu01.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="unittest测试框架" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/Baidu01.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for exception_capture_and_error_screenshpt.Baidu3.test_baidusearch" />
         <item itemvalue="Python.test_of_HTMLTestRunner" />
         <item itemvalue="Python tests.Unittests for Baidu01.Baidu1.test_baidusearch" />
         <item itemvalue="Python.test_of_makeSuit" />
         <item itemvalue="Python tests.Unittests for test.Baidu01.Baidu1" />
-        <item itemvalue="Python tests.Unittests in Baidu01.py" />
       </list>
     </recent_temporary>
   </component>
@@ -153,29 +153,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="436" y="67" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1597734863928" />
-    <state width="1515" height="171" key="GridCell.Tab.0.bottom" timestamp="1597736509214">
+    <state width="936" height="111" key="GridCell.Tab.0.bottom" timestamp="1597764163505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597736509214" />
-    <state width="1515" height="171" key="GridCell.Tab.0.center" timestamp="1597736509214">
+    <state width="936" height="111" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597764163505" />
+    <state width="936" height="111" key="GridCell.Tab.0.center" timestamp="1597764163505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597736509214" />
-    <state width="1515" height="171" key="GridCell.Tab.0.left" timestamp="1597736509214">
+    <state width="936" height="111" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597764163505" />
+    <state width="936" height="111" key="GridCell.Tab.0.left" timestamp="1597764163505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597736509214" />
-    <state width="1515" height="171" key="GridCell.Tab.0.right" timestamp="1597736509214">
+    <state width="936" height="111" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597764163505" />
+    <state width="936" height="111" key="GridCell.Tab.0.right" timestamp="1597764163505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597736509214" />
+    <state width="936" height="111" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597764163505" />
     <state x="248" y="30" width="996" height="710" key="SettingsEditor" timestamp="1597735536387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="248" y="30" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597735536387" />
-    <state x="553" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1597728734610">
+    <state x="553" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1597758538690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="553" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597728734610" />
+    <state x="553" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597758538690" />
   </component>
 </project>
