@@ -24,7 +24,63 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test.Baidu01.Baidu1">
+  <component name="RunManager" selected="Python.test_of_HTMLTestRunner">
+    <configuration name="test_of_HTMLTestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="unittest测试框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_of_HTMLTestRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_of_makeSuit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="unittest测试框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_of_makeSuit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Baidu01.Baidu1.test_baidusearch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="unittest测试框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Baidu01.Baidu1.test_baidusearch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for test.Baidu01.Baidu1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="unittest测试框架" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +111,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_of_HTMLTestRunner" />
+        <item itemvalue="Python tests.Unittests for Baidu01.Baidu1.test_baidusearch" />
+        <item itemvalue="Python.test_of_makeSuit" />
         <item itemvalue="Python tests.Unittests for test.Baidu01.Baidu1" />
         <item itemvalue="Python tests.Unittests in Baidu01.py" />
       </list>
@@ -90,25 +149,33 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="567" y="94" width="814" height="730" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1597648870691" />
-    <state width="804" height="171" key="GridCell.Tab.0.bottom" timestamp="1597651365987">
+    <state x="436" y="67" key="#Notifications" timestamp="1597734863928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="804" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597651365987" />
-    <state width="804" height="171" key="GridCell.Tab.0.center" timestamp="1597651365987">
+    <state x="436" y="67" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1597734863928" />
+    <state width="1515" height="171" key="GridCell.Tab.0.bottom" timestamp="1597736509214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="804" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597651365987" />
-    <state width="804" height="171" key="GridCell.Tab.0.left" timestamp="1597651365987">
+    <state width="1515" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597736509214" />
+    <state width="1515" height="171" key="GridCell.Tab.0.center" timestamp="1597736509214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="804" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597651365987" />
-    <state width="804" height="171" key="GridCell.Tab.0.right" timestamp="1597651365987">
+    <state width="1515" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597736509214" />
+    <state width="1515" height="171" key="GridCell.Tab.0.left" timestamp="1597736509214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="804" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597651365987" />
-    <state x="248" y="30" width="996" height="710" key="SettingsEditor" timestamp="1597651187286">
+    <state width="1515" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597736509214" />
+    <state width="1515" height="171" key="GridCell.Tab.0.right" timestamp="1597736509214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="248" y="30" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597651187286" />
+    <state width="1515" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597736509214" />
+    <state x="248" y="30" width="996" height="710" key="SettingsEditor" timestamp="1597735536387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="248" y="30" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597735536387" />
+    <state x="553" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1597728734610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597728734610" />
   </component>
 </project>

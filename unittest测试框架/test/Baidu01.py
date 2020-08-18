@@ -25,6 +25,8 @@ class Baidu1(unittest.TestCase):
         self.driver.quit()
         self.assertEqual([], self.verificationErrors)
 
+    # 忽略测试用例
+    @unittest.skip("skipping")
     # 以 test_ 开头的方法都是测试方法, 可以自动运行
     def test_hao(self):
         driver = self.driver
@@ -39,7 +41,12 @@ class Baidu1(unittest.TestCase):
         driver.find_element_by_id("kw").send_keys("盗墓笔记")
         driver.find_element_by_id("su").click()
         time.sleep(6)
-        # self.assertTrue(123 == 1234, msg='not true')
+
+        # 断言：判断预期结果和实际结果是否一致
+        self.assertNotEqual("盗墓笔记_搜索", driver.title, msg="网页未打开!")
+        self.assertTrue("盗墓笔记_搜索" == driver.title, msg="表达式不相等")
+        # self.assertNotEqual("盗墓笔记_搜索", driver.title, msg="false")
+        # self.assertFalse("盗墓笔记_搜索" == driver.title, msg="false")
         time.sleep(6)
 
     def is_element_present(self, how, what):
