@@ -9,7 +9,7 @@ driver.get("https://www.baidu.com/")
 driver.maximize_window()
 time.sleep(3)
 
-driver.find_element_by_id("kw").send_keys("吴亦凡")
+driver.find_element_by_id("kw").send_keys("朱一龙")
 driver.find_element_by_id("su").submit()
 time.sleep(6)
 
