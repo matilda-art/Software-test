@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3baa554-8b9f-4daf-8a57-d11dce72a904" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operation/div.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operation/upload_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newpackage/browser_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/newpackage/browser_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operation/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/operation/geckodriver.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,9 +169,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597051908015" />
-    <state x="440" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1597588535783">
+    <state x="440" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1597977013585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="440" y="288" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597588535783" />
+    <state x="440" y="288" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597977013585" />
   </component>
 </project>

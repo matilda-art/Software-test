@@ -64,3 +64,11 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1597763887691	Marionette	INFO	Listening on port 3290
 1597763888073	Marionette	WARN	TLS certificate errors will be ignored for this session
 [Parent 20596, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+1597764516211	Marionette	INFO	Stopped listening on port 3290
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
